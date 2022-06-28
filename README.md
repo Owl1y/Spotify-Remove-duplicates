@@ -5,4 +5,4 @@ This will hopefully be a simple playlist search tool for my playlist.
 
 I also got my information from this [video](https://www.youtube.com/watch?v=-FsFT6OwE1A)
 
-Most of my information for the jupyter notebooks are from [this](https://youtu.be/xdq6Gz33khQ)
+Most of my information for the jupyter notebooks and spotify_client are from [this](https://youtu.be/xdq6Gz33khQ)
