@@ -3,6 +3,8 @@ I have a fair amount of playlist on spotify(shared with friends) with each about
 This will hopefully be a simple playlist search tool for my playlist. 
 
 
-I also got my information from this [video](https://www.youtube.com/watch?v=-FsFT6OwE1A)
-
-Most of my information for the jupyter notebooks and spotify_client are from [this](https://youtu.be/xdq6Gz33khQ)
+---
+## Sources of material that helped me with this project
+- [spotify_client](https://youtu.be/xdq6Gz33khQ)
+- [reading from other files](https://stackoverflow.com/questions/3277503/how-to-read-a-file-line-by-line-into-a-list?rq=1)
+- more coming... 
