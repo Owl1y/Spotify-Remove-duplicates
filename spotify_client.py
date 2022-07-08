@@ -125,3 +125,10 @@ class SpotifyAPI(object):
         print(query_params)
         return self.base_search(query_params)
 
+    def get_playlist(self, playlist_id):
+        endpoint = f"https://api.spotify.com/v1/playlists/{playlist_id}/tracks"
+        headers = self.get_resource_header()
+        r = requests.get(endpoint, headers=headers)
+        if r.status_code not in range(200, 299):
+           return {}
+        return r.json()
