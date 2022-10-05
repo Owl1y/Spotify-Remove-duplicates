@@ -56,15 +56,8 @@
 - todo
   - pick what playlist you want in the dictonary and it takes the playlist id
 
-### July , 2022
-### July , 2022
-### July , 2022
-### July , 2022
-### July , 2022
-### July , 2022
-### July , 2022
-### July , 2022
-
+### October 5, 2022
+- I really added nothing. I am just trying to get the users playlist and then have them answer which ones they want scanned
 
 
 
