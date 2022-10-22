@@ -60,5 +60,11 @@
 - I really added nothing. I am just trying to get the users playlist and then have them answer which ones they want scanned
 
 
-
+### October 21, 2022
+- I got the program to do the biggest thing
+  1. ask user for their id
+  2. scan the playlist the owner owns
+  3. show the user the playlist they own
+  4. ask them which playlist they want to be scanned
+  5. gets that input and scans the playlist they selected
 
