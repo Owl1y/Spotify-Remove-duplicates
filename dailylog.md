@@ -68,3 +68,9 @@
   4. ask them which playlist they want to be scanned
   5. gets that input and scans the playlist they selected
 
+### December 18, 2022
+- The program is now conected
+  - this means it can get a user
+  - read their playlist
+  - ask the person running the program what playlist they want scanned
+  - it scans the playlist and returns the items in the playlist
