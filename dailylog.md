@@ -74,3 +74,7 @@
   - read their playlist
   - ask the person running the program what playlist they want scanned
   - it scans the playlist and returns the items in the playlist
+
+
+### December 21, 2022
+- Program now gets back the song id
