@@ -78,3 +78,15 @@
 
 ### December 21, 2022
 - Program now gets back the song id
+
+
+### December 22, 2022
+- it now can read the playlist(s), get their song id's, and inputs it into one playlist
+- with help to this code 
+```python
+for i in range(0, len(final_ids), 100):
+    start = i
+    fin = 100 + i
+    client.playlist_add(theee_playlist, final_ids[start:fin], position=0)
+
+```
