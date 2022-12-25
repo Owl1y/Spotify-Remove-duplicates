@@ -90,3 +90,24 @@ for i in range(0, len(final_ids), 100):
     client.playlist_add(theee_playlist, final_ids[start:fin], position=0)
 
 ```
+
+
+### December 25, 2022
+- the playlist tool now can add songs to the playlist and it wont add songs that are already in the playlist, so it should not add duplicated songs (hopefully)
+- the plan now 
+  - [ ] figure out how to have the token be accepted easier without copying the uri
+  - [ ] make this notebook a script
+  - [ ] make the script run automatically
+  - [ ] make a txt file of my playlist i constantly want scanned to keep adding to theee playlist
+
+
+
+
+
+
+
+
+
+
+
+
