@@ -104,7 +104,9 @@ for i in range(0, len(final_ids), 100):
 - I made a new notebook with removing songs that were in previous playlist
 - Next goal is to make it so I dont have to do auth each time
 
-
+### January 13, 2023
+- from reading the tekore library I think its required I need to auth each time
+- therefor this project is now done
 
 
 

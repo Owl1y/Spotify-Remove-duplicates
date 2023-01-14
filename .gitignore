@@ -4,3 +4,5 @@ notebooks/
 client_nums.txt
 __pycache__/
 *.json
+*.txt
+untrack-this-dir/
