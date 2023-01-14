@@ -1,7 +1,5 @@
-# Playlist song finder for spotify
-I have a fair amount of playlist on spotify(shared with friends) with each about 100 songs each.
-This will hopefully be a simple playlist search tool for my playlist. 
-
+# Playlist tool to remove duplicate songs
+Me and my friends share multiple playlist with 100 songs each, this script will help solve the problem of removing duplicate songs
 
 ---
 ## Material that helped me with this project
