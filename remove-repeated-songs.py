@@ -34,14 +34,18 @@ def get_song_ids(the_playlist):
         playlist_songs = client.playlist_items(the_playlist, as_tracks=False, offset=play_offset)
     return song_ids
 
-former_playlist = ['7IHZvZIusTuJNMcKleSWwd', 
-                   '6fYjLM7ESHGrh5N9SvzVGB', 
-                   '77sj0Sh0vzMlWnV7SlqkLu', 
-                   '40daaNzvSSvYGIZhqX7HsR', 
-                   '26ZzwXAOlKTvsVjQcQd4gm', 
-                   '7jXzoKibDwt7yYaoU3uPdF', 
-                   '0AFQ3bdD6zCyXda4FOwp39']
-current_playlist = ['5TMatpArr9xKImvUHGydS8']
+former_playlist = ['7IHZvZIusTuJNMcKleSWwd', # our 
+                   '6fYjLM7ESHGrh5N9SvzVGB', # my ass
+                   '77sj0Sh0vzMlWnV7SlqkLu', # chill bro chill
+                   '40daaNzvSSvYGIZhqX7HsR', # smirk emoji
+                   '26ZzwXAOlKTvsVjQcQd4gm', # E.A.V 
+                   '7jXzoKibDwt7yYaoU3uPdF', # Graduation
+                   '0AFQ3bdD6zCyXda4FOwp39', # your life bro
+                   '5TMatpArr9xKImvUHGydS8', # Gooder Den uh mug
+                   '3D5zlfceDGtWIX7bq8W4EX', # Fuck it, we ball
+                   '6EtpdnhnTgmJ9JcPPswyNY' # Barbieheimer
+                   ] 
+current_playlist = ['0zszEZ0l7i7APDZNOHiPX2'] # roaring 20s
 
 current_pl_uris = get_song_ids(current_playlist[0])
 for nums in former_playlist:
